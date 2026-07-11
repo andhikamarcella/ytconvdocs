@@ -90,6 +90,16 @@ function navigation(activeSlug) {
             </div>
           </section>`;
       }).join('')}
+      <section class="nav-group ecosystem-nav-group">
+        <div class="nav-heading">${icon('layers')}<span>Layanan YT Conv</span></div>
+        <div class="nav-links ecosystem-nav-links">
+          <a href="${siteConfig.guideUrl}" target="_blank" rel="noreferrer">Guide</a>
+          <a href="${siteConfig.docsUrl}" class="active" aria-current="page">Docs</a>
+          <a href="${siteConfig.statusUrl}" target="_blank" rel="noreferrer">Status</a>
+          <a href="${siteConfig.toolsUrl}" target="_blank" rel="noreferrer">Tools</a>
+          <a href="${siteConfig.helpUrl}" target="_blank" rel="noreferrer">Help</a>
+        </div>
+      </section>
     </nav>`;
 }
 

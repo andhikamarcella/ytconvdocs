@@ -7,6 +7,8 @@ export const siteConfig = {
   statusUrl: 'https://ytconvstatus.vercel.app/',
   supportUrl: 'https://ytconv.onrender.com/',
   docsUrl: 'https://ytconvdocs.vercel.app/',
+  toolsUrl: 'https://ytconvtools.vercel.app/',
+  helpUrl: 'https://ytconvhelp.vercel.app/',
   lastUpdated: '11 Juli 2026'
 };
 
