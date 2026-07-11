@@ -4,7 +4,7 @@ export const siteConfig = {
   tagline: 'Dokumentasi resmi YTConv',
   converterUrl: 'https://ytconv.onrender.com/',
   guideUrl: 'https://ytconvguide.vercel.app/',
-  statusUrl: 'https://ytconv.onrender.com/status',
+  statusUrl: 'https://ytconvstatus.vercel.app/',
   supportUrl: 'https://ytconv.onrender.com/',
   docsUrl: 'https://ytconvdocs.vercel.app/',
   lastUpdated: '11 Juli 2026'

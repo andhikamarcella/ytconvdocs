@@ -114,6 +114,9 @@ kbd { padding: 2px 7px; font-size: 11px; line-height: 1.5; color: var(--muted); 
 .primary-link { background: var(--accent); color: white; }
 .primary-link:hover { color: white; background: var(--accent-strong); }
 .primary-link .icon, .top-link .icon { width: 14px; height: 14px; }
+.status-top-link { color: var(--text); background: var(--surface-2); border: 1px solid var(--border); }
+.status-top-link:hover { background: var(--surface-3); border-color: var(--border-strong); }
+.status-top-link .status-dot { width: 7px; height: 7px; }
 .icon-button { width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid transparent; border-radius: 11px; background: transparent; color: var(--muted); cursor: pointer; }
 .icon-button:hover { background: var(--surface-2); color: var(--text); border-color: var(--border); }
 .mobile-menu-button { display: none; }

@@ -104,6 +104,7 @@ function header() {
         </a>
         <button class="search-trigger" data-action="open-search">${icon('search')}<span>Cari dokumentasi</span><kbd>Ctrl K</kbd></button>
         <div class="top-actions">
+          <a class="top-link status-top-link" href="${siteConfig.statusUrl}" target="_blank" rel="noreferrer"><span class="status-dot"></span>Status</a>
           <a class="top-link" href="${siteConfig.guideUrl}" target="_blank" rel="noreferrer">Guide ${icon('external')}</a>
           <a class="top-link primary-link" href="${siteConfig.converterUrl}" target="_blank" rel="noreferrer">Buka YTConv ${icon('external')}</a>
           <button class="icon-button" data-action="cycle-theme" aria-label="Ganti tema" title="Tema: ${state.theme}">${themeIcon()}</button>

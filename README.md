@@ -58,7 +58,7 @@ Buka `assets/docs.js`, lalu ubah objek `siteConfig` di bagian paling atas:
 - `productName`
 - `converterUrl`
 - `guideUrl`
-- `statusUrl`
+- `statusUrl` — saat ini: `https://ytconvstatus.vercel.app/`
 - `supportUrl`
 - `docsUrl`
 
