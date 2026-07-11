@@ -1,0 +1,10 @@
+{
+  "name": "YTConv Docs",
+  "short_name": "YTConv Docs",
+  "description": "Dokumentasi resmi YTConv",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#ff365b",
+  "icons": []
+}

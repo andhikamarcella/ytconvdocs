@@ -1,0 +1,7 @@
+{
+  "name": "ytconv-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dokumentasi resmi YTConv yang siap dipasang ke Vercel"
+}

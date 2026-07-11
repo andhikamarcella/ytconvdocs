@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ytconvdocs.vercel.app/sitemap.xml
