@@ -78,3 +78,7 @@ Semua artikel berada di array `docs` pada `assets/docs.js`. Setiap artikel mempu
 - Ganti domain di `robots.txt` dan `sitemap.xml` apabila alamat produksinya bukan `ytconvdocs.vercel.app`.
 - Sesuaikan batas layanan, kebijakan penyimpanan, dan detail privasi dengan perilaku backend YTConv yang sebenarnya.
 - Ganti alamat dukungan/status jika endpoint tersebut belum tersedia.
+
+## Koreksi tautan Status
+
+- Link Status diarahkan langsung ke `https://ytconvstatus.vercel.app/` (bukan route `/status` di converter).
